@@ -1,4 +1,3 @@
-package Pack2;
 
 public class GitClass {
 
